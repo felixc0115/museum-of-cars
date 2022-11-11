@@ -2,6 +2,21 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+.blurb h2 {
+    font-weight: 100;
+    font-size: 2.5rem
+}
+
+.blurp p {
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-bottom: 100px;
+}
+
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
@@ -16,9 +31,4 @@ h1 {
         font-weight: 100;
         font-size: 3rem;
     }
-}
-
-.second-img {
-    height: 560px;
-    wod
 }
